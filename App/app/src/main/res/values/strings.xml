@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Dev</string>
+    <string name="click_over_button_to_exit">Exit</string>
+    <string name="exit">Exit</string>
+    <string name="flavours">flavours</string>
+    <string name="chocolate">chocolate</string>
+    <string name="vanilla">vanilla</string>
+    <string name="strawberry">strawberry</string>
+    <string name="button">button</string>
+</resources>
